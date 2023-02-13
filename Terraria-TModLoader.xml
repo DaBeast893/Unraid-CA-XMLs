@@ -9,16 +9,21 @@
   <Privileged>false</Privileged>
   <Support>https://forums.unraid.net/topic/134556-support-terraria-tmodloader/</Support>
   <Project>https://github.com/JACOBSMILE/tmodloader1.4</Project>
-  <Overview>This Docker Image is designed to allow for easy configuration and setup of a modded Terraria server powered by tModLoader.&#xD;
+  <Overview>Easily and quickly set up a configurable Terraria tModLoader server that automatically downloads mods using Steam Workshop IDs.&#xD;
 &#xD;
-Easily and quickly set up a configurable Terraria tModLoader server that automatically downloads mods using Steam Workshop IDs.&#xD;
+ .&#xD;
 &#xD;
 Features&#xD;
+&#xD;
 -Easy download of tModLoader mods from Steam Workshop&#xD;
+&#xD;
 -Scheduled world saving&#xD;
+&#xD;
 -Graceful shutdowns&#xD;
+&#xD;
 -Optional server config for precise setting control&#xD;
--Github Automation to stay up-to-date with tModLoader's release cycle</Overview>
+&#xD;
+-GitHub automation to stay up-to-date with tModLoader's release cycle</Overview>
   <Category>GameServers: Status:Stable</Category>
   <WebUI/>
   <TemplateURL/>
@@ -26,19 +31,24 @@ Features&#xD;
   <ExtraParams/>
   <PostArgs/>
   <CPUset/>
-  <DateInstalled>1676331828</DateInstalled>
+  <DateInstalled>1676332287</DateInstalled>
   <DonateText/>
   <DonateLink/>
-  <Description>This Docker Image is designed to allow for easy configuration and setup of a modded Terraria server powered by tModLoader.&#xD;
+  <Description>Easily and quickly set up a configurable Terraria tModLoader server that automatically downloads mods using Steam Workshop IDs.&#xD;
 &#xD;
-Easily and quickly set up a configurable Terraria tModLoader server that automatically downloads mods using Steam Workshop IDs.&#xD;
+ .&#xD;
 &#xD;
 Features&#xD;
+&#xD;
 -Easy download of tModLoader mods from Steam Workshop&#xD;
+&#xD;
 -Scheduled world saving&#xD;
+&#xD;
 -Graceful shutdowns&#xD;
+&#xD;
 -Optional server config for precise setting control&#xD;
--Github Automation to stay up-to-date with tModLoader's release cycle</Description>
+&#xD;
+-GitHub automation to stay up-to-date with tModLoader's release cycle</Description>
   <Networking>
     <Mode>bridge</Mode>
     <Publish>
